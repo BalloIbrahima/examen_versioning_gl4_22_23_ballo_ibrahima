@@ -1,0 +1,523 @@
+commit f88e9e8841afaa2c234e33baf3e8979ea6610da2
+Merge: 3cb35dc 5657271
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Jan 6 18:23:21 2023 +0000
+
+    Merge branch 'part3_todo2'
+
+commit 565727150767c8324f1b0a289094b38b4f6a3311
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Jan 6 16:32:03 2023 +0000
+
+    Update of event subscriber for created_at field for all entities
+
+commit a9eafabc4a2fdd626a3870055a412cfeb0f7221a
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Jan 6 15:39:59 2023 +0000
+
+    Add of arrival and arrival details on admin panel
+
+commit 838ef92aa0fcb13bea06a45d5d8574773c603cf6
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Jan 6 14:18:14 2023 +0000
+
+    Add of entity arrivaldatails
+
+commit 26c39ac603d800d18c2ed49660408872a10594b4
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Jan 6 13:42:30 2023 +0000
+
+    Update of entity arrival
+
+commit f379da8dac6801e65f6560e9064bb7d9f8136873
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 18:12:58 2022 +0000
+
+    Add of entity arrival
+
+commit dbc5d1e81189a6e4b3f37e51c8412761f4723bb7
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 18:06:25 2022 +0000
+
+    Add of entity review with admin making
+
+commit 247daa5bdcada157e73d343ad591152e26e0e407
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 17:40:24 2022 +0000
+
+    Add of entity like with admin making
+
+commit 053d4bc4257bca6d7a01e2892a369c1339d35ccb
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 17:19:08 2022 +0000
+
+    Update of entity product with admin making
+
+commit 682c2f8e04801950e659b63cf82bb72f526ab5fe
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 17:03:21 2022 +0000
+
+    Update of entity category with admin making
+
+commit efd893eef59f62c4d741e073fddd77d46a93aee9
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 15:27:46 2022 +0000
+
+    Update of entity user with admin making
+
+commit db3fe65d32f410cd8e4e146c1e4d982064d38bf9
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 15:20:28 2022 +0000
+
+    Make rondom hash name for uploaded photo
+
+commit 3cb35dc1ec2967b39a57c6469dd6cea5ddce1078
+Merge: 3b69514 bae4f0a
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Dec 27 12:50:08 2022 +0000
+
+    Merge branch 'part3_todo'
+
+commit bae4f0a9a102794e9234000a0bc68c5c539c7b49
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 18:15:46 2022 +0000
+
+    Add event subscriber for created_at field for all entities
+
+commit b8d1262319a4e5240381d2478a071fa9b2e70358
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 17:45:54 2022 +0000
+
+    Filter active categories while editing product
+
+commit 85ce13ee371bc4dd6c725cc5a018347c03f03ddf
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 17:38:04 2022 +0000
+
+    Remove of products and subcategories while deleting category
+
+commit d15ffc0068af9ef28d1476fc0bbf99eec2de8cb8
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 17:22:54 2022 +0000
+
+    Coding duplicate product action method
+
+commit de20c3f0cfbce4921366def4c75c0d96499fbfbb
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 17:04:55 2022 +0000
+
+    Reorder product edit actions
+
+commit e53f8ae237e8fefd317998df9d4531a02abb0284
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 17:00:14 2022 +0000
+
+    Add of duplicate action on product
+
+commit a4d94304b08280e748bf962e0b369f4742edc389
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Dec 26 16:45:04 2022 +0000
+
+    Another way for dashbord url generator  by injection
+
+commit 3b69514011c0a91722ddbe4cf7e7e3fc93cf2b86
+Merge: 6c0675a 3b79f43
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 02:47:30 2022 +0000
+
+    Merge branch 'part1_todo'
+
+commit 3b79f43f660c108a77c3a21827eae81f4ea24288
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 02:43:09 2022 +0000
+
+    Making active url style in nav bar
+
+commit 760f08be213c248fb40ba55c9274eb60c02da0c8
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 02:35:10 2022 +0000
+
+    Making of new template
+
+commit 6c0675a7f68537c6d50ee093e6f856ac459091e5
+Merge: 293d637 6ab1703
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:58:12 2022 +0000
+
+    Merge branch 'part3-admin'
+
+commit 6ab170342f472152d5583773b23688246e195bf3
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:53:34 2022 +0000
+
+    Fixing user and cutomer edit form
+
+commit a63bfa9b11660e1a438698483d80ac5949f4a5a6
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:40:02 2022 +0000
+
+    Add of customer to admin panel with link to user
+
+commit 6724b3df5a97653870a6b7fded52039add96b06a
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:36:54 2022 +0000
+
+    Add of created_at field in user
+
+commit 094b3660092de5b45404ec2e287c51b72f385f0f
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:14:47 2022 +0000
+
+    Add of model customer with relationship to user
+
+commit f8618251a195ac34ece34b10361e8b0dae1aa372
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:11:14 2022 +0000
+
+    Ignore uploaded images
+
+commit cc16c44f8ac3786350c9429606ba46293148d72a
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 01:05:41 2022 +0000
+
+    Fixing product and category created_at value when creating
+
+commit a892cd9e04145e37091229556b50d447efea8a48
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 00:48:48 2022 +0000
+
+    Add of field in product
+
+commit 7ed60ed847ba7e9bd1c9aea94a7b4c8b74005d06
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sat Dec 24 00:19:09 2022 +0000
+
+    Display relationship photo is related to product
+
+commit 56cd138111b89dada7e7eea88684c4492a3189af
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 16:13:15 2022 +0000
+
+    Add of product category photo to admin panel
+
+commit abab0be019f1fef56da24b14cf1d2aa8aed1f9dc
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 15:23:43 2022 +0000
+
+    Make migration for product category photo
+
+commit b37783588501d81497c7868288746fae0c85e1e0
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 15:20:30 2022 +0000
+
+    Making relationship product photo
+
+commit c3d6a7a4a6441fd426039d616a293eb0997539ea
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 15:17:00 2022 +0000
+
+    Making relationship product category
+
+commit 28823986bd0cfa11c07484eefac9761775d01ac3
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 15:10:18 2022 +0000
+
+    Add of model Photo
+
+commit ad9b7566d785df81d24344d2e06c5c92c65f738f
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 14:53:01 2022 +0000
+
+    Add of model category with parent relation
+
+commit 8ef3a486b2a1bbdec5fe9d61b689c4e46aec2b99
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 13:37:11 2022 +0000
+
+    Add of model product
+
+commit 71898cae9f2851d74218f44d7325f94affce6be4
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 13:30:24 2022 +0000
+
+    Making section and menu on admin panel bar
+
+commit a07f401f5f7bc05218c4d6e5e197ad330da18f57
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 23 11:57:00 2022 +0000
+
+    Add of User in admin panel
+
+commit fdd901479becfddd72db88157ae18cb538299acf
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Thu Dec 22 16:35:12 2022 +0000
+
+    Making user crud for admin
+    
+    cmd: symfony console make:admin:crud
+
+commit 61d1d1189cb7b5696b022de9a09b364e8d8dafbb
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Thu Dec 22 15:46:32 2022 +0000
+
+    Making admin dashboard
+    
+    cmd: symfony console make:admin:dashboard
+
+commit 307c0d786a0950657055c2e5831c3d35c35e2227
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Dec 2 15:50:46 2022 +0000
+
+    Install of dependencies (EasyAdmin)
+    
+    cmd: symfony composer req "admin:^4" or composer require easycorp/easyadmin-bundle
+
+commit 293d6370cd33c2d448a066bcb7000eea78d57b12
+Merge: 16f3256 0817503
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 25 17:54:48 2022 +0000
+
+    Merge branch 'part2-authentification'
+
+commit 08175035cb2fc230c915bddb6937f416a103cd4c
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 25 17:49:32 2022 +0000
+
+    Making some design features
+
+commit ea127f8ff3b7f4bfe65d019e26fc1c0a90463985
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Nov 22 00:48:08 2022 +0000
+
+    Making password change page 2
+
+commit 0b24f562b406dd25b27f3d94ee7ac5911ff063a6
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Tue Nov 22 00:47:26 2022 +0000
+
+    Fix of redirection after authentification
+
+commit 00c3aae1865c96023ac476ba997efb6fcb6b91a3
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 23:59:12 2022 +0000
+
+    Making password change page
+
+commit 402098981ae9265ca37154a797682e4283d8a605
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 23:04:33 2022 +0000
+
+    Redirection to account for registered user while login
+
+commit 482d83c8e19fd5b3cd0c7d6f7a478df9ee4eee35
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 22:59:31 2022 +0000
+
+    Link to another pages
+
+commit f9fda42d5c918c4f95e06d63c6f0bb084b8201bd
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 22:42:06 2022 +0000
+
+    Redirection after authentification
+
+commit aeacaa28766dd9f81116d8cb40b24e0110e6f05a
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 22:39:29 2022 +0000
+
+    Restrict user access to page
+
+commit 3a22197d11a24f0f7af16eca399aa3619053e61b
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 22:18:49 2022 +0000
+
+    Add of account controller
+
+commit 4951372ed4f12b6534246f083ce7bf043fca510e
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 21 19:02:11 2022 +0000
+
+    Some text in french
+
+commit 0fa749ade5af8072466f2bfdd7bd09a94d8978ea
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 16:48:19 2022 +0000
+
+    Display of login form
+
+commit d8c53eb72df8086be84979651c10dab66686fdbf
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 16:42:12 2022 +0000
+
+    Add of authentificator
+    
+    cmd: symfony console make:auth
+
+commit ebb077661ec6f22e03853dd2b015154f34ab86b4
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 15:50:09 2022 +0000
+
+    Language in fr
+
+commit 377a96a22519d3b9eb1d463bc005bfaf2e8c6613
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 15:49:57 2022 +0000
+
+    Validation constraints
+
+commit bd78e19b1e0915bc23c64326de8dd8808cb9a45c
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 15:13:40 2022 +0000
+
+    Hash of password
+
+commit a01dd2063a80a1c4962cd7b51877d52c92020fcf
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 14:48:44 2022 +0000
+
+    Display of password confirm error
+
+commit 3f1e3964b3dd7c49d3e7cd5dab0ff25df26649fe
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Fri Nov 18 14:33:54 2022 +0000
+
+    Save of user into database
+
+commit ec8edd6f17f7dbac54a2154d213711d1e7c5eae6
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Thu Nov 17 16:44:41 2022 +0000
+
+    Display of the register form with added properties and input style
+
+commit 73e228182e85338c0fe1cbfdc8f57b6e77141065
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Thu Nov 17 10:39:03 2022 +0000
+
+    Making migrations
+
+commit f89cb8f1b8ce90f671aeb35e98d17fdb9e781ada
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Thu Nov 17 10:37:57 2022 +0000
+
+    Debug of In MetadataStorageError.php line 13:
+    
+    The metadata storage is not up to date, please run the sync-metadata-
+      storage command to fix this issue.
+
+commit 575673f908ff41497e096935d3756151003b3d92
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 12:31:34 2022 +0000
+
+    Add of properties on User
+    
+    cmd: symfony console make:entity
+
+commit 1fd827aad4a73642ad1a1c438065bc7fd6e68c37
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 12:05:16 2022 +0000
+
+    Display of the register form
+
+commit 2d0029a1e87d07eedafcfdcf731b580d74be3a69
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 11:23:55 2022 +0000
+
+    Add of user form
+    
+    cmd: symfony console make:form
+
+commit 16f3256092b298fd55048ba8520f9c34dc0881f5
+Merge: 8eed500 68e0054
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 10:41:43 2022 +0000
+
+    Merge branch 'part2-table-user'
+
+commit 66174b569190f1072c202102c7ebfd4bb91ca2a1
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 10:40:16 2022 +0000
+
+    Hid/display carousel with respect to home and register page
+
+commit be041b90cc1d9775702aae9510561510d734fe1b
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Wed Nov 16 09:23:12 2022 +0000
+
+    Add of register controller
+
+commit 68e00543a1ee1fc50c54b196f9729b947da774f2
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 14 16:36:58 2022 +0000
+
+    Making migrations
+    
+    cmd: symfony console make:migration
+
+commit 59da25983f5c041583dd3a28227e490c3053be02
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 14 16:32:29 2022 +0000
+
+    Configuration of database
+
+commit 6fc2e62c9c304c9419fd3108d14c9d9f750d6e4c
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Mon Nov 14 16:14:38 2022 +0000
+
+    Add of User Entity
+    
+    cmd: symfony console make:user
+
+commit 8eed500daa0d1a4c1dc30e24b30b1accec1d13cf
+Merge: cf33673 3a85142
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:51:49 2022 +0000
+
+    Merge branch 'part1-init-them'
+
+commit 3a85142cecd07baa9f40fc2ebc1b369398ba83e2
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:51:14 2022 +0000
+
+    Making use of block
+
+commit e92c87bb6783663fae88c5d3ee03c11c67d268b0
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:36:17 2022 +0000
+
+    Making use of the bootstrap them
+
+commit b79fa96a639898ceb95e3d99de6a6883cd99eff3
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:18:11 2022 +0000
+
+    Display of home (serve here)
+
+commit 46b0a74e0fb17dd0bc0982a3f643fef09ae2152d
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:14:52 2022 +0000
+
+    Update of home route
+
+commit 1bc39583906ed04c3bd4d341e6be9b31476f6d39
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:12:39 2022 +0000
+
+    Add of home controller
+
+commit 78ea66e12b5e4d9e3bfb28f2ac32c36deca97029
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 01:07:29 2022 +0000
+
+    Placing them template
+
+commit 0d4f2ff268eaecea40cc868ecba8eb4dca487bf1
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 00:55:27 2022 +0000
+
+    Add webapp packages
+
+commit cf33673f975d31dec4d07308d64d1b63d25115a8
+Author: Hamidou KASSOGUE <hamidoukass@gmail.com>
+Date:   Sun Nov 13 00:54:20 2022 +0000
+
+    Add initial set of files

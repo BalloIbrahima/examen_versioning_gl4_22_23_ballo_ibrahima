@@ -1,0 +1,18 @@
+f88e9e8 HEAD@{0}: checkout: moving from eb2bae13ba9821b1a924ca7446deebf55cfee1de to master
+eb2bae1 HEAD@{1}: commit: ajout de delivery et payement
+e1c31ee HEAD@{2}: commit (amend): modification du commit sur la création du modèle Order avec les dépendances occasionnées,
+22cfdc7 HEAD@{3}: reset: moving to HEAD~3
+ba0d798 HEAD@{4}: reset: moving to HEAD@{4}
+dbc5d1e HEAD@{5}: reset: moving to HEAD~2
+26c39ac HEAD@{6}: reset: moving to HEAD~3
+22cfdc7 HEAD@{7}: reset: moving to HEAD~2
+3a817fe HEAD@{8}: reset: moving to HEAD~1
+ba0d798 HEAD@{9}: commit: portant sur la création du modèle Delivery avec les dépendances
+3a817fe HEAD@{10}: reset: moving to HEAD~1
+7c0bc73 HEAD@{11}: commit: création du modèle Delivery avec les dépendances
+3a817fe HEAD@{12}: commit: la création du modèle Payment avec les dépendances
+de1f112 HEAD@{13}: commit: création du modèle OrderDetails avec les dépendances
+22cfdc7 HEAD@{14}: commit: création du modèle Order avec les dépendances occasionnées
+a9eafab HEAD@{15}: checkout: moving from tmp to a9eafa
+f88e9e8 HEAD@{16}: checkout: moving from master to tmp
+f88e9e8 HEAD@{17}: clone: from https://github.com/HKassogue/symfony-eshop-app-nov-22
